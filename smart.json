@@ -1,0 +1,8 @@
+{
+    "name": "hopscotch",
+    "description": "Easy product tours with javascript.",
+    "homepage": "http://linkedin.github.io/hopscotch/",
+    "author": "David Sykora",
+    "version": "0.1.2",
+    "git": "https://github.com/Dsyko/meteor-hopscotch.git"
+}
