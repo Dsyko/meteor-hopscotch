@@ -1,6 +1,6 @@
 ###Hopscotch in a Meteor Smart Package
 
-This is a the [hopscotch product tour plugin](http://linkedin.github.io/hopscotch/) as a meteor smart package.
+This is a the [hopscotch product tour plugin](http://linkedin.github.io/hopscotch/) as a meteor smart package. Updated to work with Meteor version 0.9.X+
 
 ###How to use?
 
