@@ -8,3 +8,8 @@ This is a the [hopscotch product tour plugin](http://linkedin.github.io/hopscotc
 2. `mrt add hopscotch` in your meteor project directory
 
 Check out the [Hopscotch page](http://linkedin.github.io/hopscotch/) for more details.
+
+###History
+
+1.1.3: Update asset path /packages/dsyko:hopscotch/img/... changed to /packages/dsyko_hopscotch/img/...
+1.1.2: update package for Metoer 0.9.x package system
