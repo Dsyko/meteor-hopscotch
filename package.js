@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function (api) {
-	api.versionsFrom("METEOR@0.9.2");
+	api.versionsFrom("METEOR@1.1.0.2");
     api.addFiles('lib/hopscotch-0.1.2.min.js', "client");
     api.addFiles('lib/hopscotch-0.1.2.min.css', "client");
     api.addFiles('img/sprite-green-0.3.png', "client");
