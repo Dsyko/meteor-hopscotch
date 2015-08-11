@@ -1,6 +1,6 @@
 Package.describe({
 	summary:  "Hopscotch (v0.25) - tour plugin for Meteor",
-	version: '1.0.0',
+	version: '1.1.4',
 	name: "mikkelking:meteor-hopscotch",
 	git: 'https://github.com/mikkelking/meteor-hopscotch'
 });
