@@ -9,6 +9,8 @@ Package.onUse(function (api) {
 	api.versionsFrom("METEOR@1.1.0.3");
     api.addFiles('lib/hopscotch-0.2.5.min.js', "client");
     api.addFiles('lib/hopscotch-0.2.5.min.css', "client");
+	api.addFiles('img/sprite-green.png', "client");
+	api.addFiles('img/sprite-orange.png', "client");
     api.addFiles('lib/main.js', "client");
 	api.export('hopscotch', 'client');
 });
