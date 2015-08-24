@@ -6,12 +6,13 @@ This is a the [hopscotch product tour plugin](http://linkedin.github.io/hopscotc
 
 ###How to use?
 
-meteor add mikkelking:hopscotch
+meteor add mikkelking:meteor-hopscotch
 
 Check out the [Hopscotch page](http://linkedin.github.io/hopscotch/) for more details.
 
 ###History
 
+1.1.6: D'Oh! Added files that should have been included (lib/main.js and test.js)
 1.1.4: Update for latest hopscotch and meteor
 1.1.3: Update asset path /packages/dsyko:hopscotch/img/... changed to /packages/dsyko_hopscotch/img/...
 1.1.2: update package for Metoer 0.9.x package system
